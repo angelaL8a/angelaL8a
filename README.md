@@ -12,10 +12,10 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 
 - **Programming Languages**: Python 🐍, C++, JavaScript (JS), PHP
 - **Databases**: MySQL,  PostgreSQL
-- **Tools**: Git, VS Code, Figma, Canva, Linear, Miro, 
+- **Tools**: Git, VS Code, Figma, Canva, Linear, Miro
 - **Fields of Interest**: Web Development, AI, Data Science, Database Management, Software Engineering, Mathematics, Art and Design
 
-## Skills
+## 🍀 Skills
 - **Management methodologies**: Kanban , Agile
 
 ## 🩷 Hobbies
