@@ -14,9 +14,7 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 - **Databases**: MySQL,  PostgreSQL  
 - **Tools**: Git, VS Code, Figma, Canva, Linear, Miro  
 - **Fields of Interest**: Web Development, AI, Data Science, Database Management, Software Engineering, Mathematics, Art and Design
-![Programming Languages](https://skillicons.dev/icons?i=js,html,css,cpp,python,php,tailwind,gql,p5js,prisma) 
-![Databases](https://skillicons.dev/icons?i=mysql,postgres)  
-![Tools](https://skillicons.dev/icons?i=figma,vscode,git,github,vite,vercel)  
+![Programming Languages](https://skillicons.dev/icons?i=js,html,css,cpp,python,php,tailwind,gql,p5js,prisma,mysql,postgres,figma,vscode,git,github,vite,vercel) 
 
 ## 🍀 Skills
 - **Management methodologies**: Kanban , Agile
