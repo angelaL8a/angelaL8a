@@ -20,7 +20,11 @@ When I’m not coding, you can find me:
 - Creating digital artwork on Canva and Behance
 - Jamming to a diverse playlist that includes Rap, Hip-Hop, R&B, Electro, and Jersey Club 🎧
 
+### 📊 My GitHub Stats
+![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelaL8a&show_icons=true&hide=contribs,prs)
+  
 ## 📩 Let's Connect
 - LinkedIn: [Angela LinkedIn](https://www.linkedin.com/in/gabriel-david-lozano-ochoa-08b844269/)
 
 I'm always open to collaborating on interesting projects and innovative ideas. Feel free to reach out if you want to talk tech or design!
+
