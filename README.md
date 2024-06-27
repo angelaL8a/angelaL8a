@@ -13,7 +13,8 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 - **Programming Languages**: Python 🐍, C++, JavaScript (JS), PHP  
 - **Databases**: MySQL,  PostgreSQL  
 - **Tools**: Git, VS Code, Figma, Canva, Linear, Miro  
-- **Fields of Interest**: Web Development, AI, Data Science, Database Management, Software Engineering, Mathematics, Art and Design  
+- **Fields of Interest**: Web Development, AI, Data Science, Database Management, Software Engineering, Mathematics, Art and Design
+    
 ![Programming Languages](https://skillicons.dev/icons?i=js,html,css,cpp,python,php,tailwind,gql,p5js)
 ![Programming Languages](https://skillicons.dev/icons?i=prisma,mysql,postgres,figma,vscode,git,github,vite,vercel)
 
