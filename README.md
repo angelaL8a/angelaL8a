@@ -26,7 +26,7 @@ When I’m not coding, you can find me:
 - Jamming to a diverse playlist that includes Rap, Hip-Hop, R&B, Electro, and Jersey Club 🎧
 
 ### 📊 My GitHub Stats
-![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelaL8a&show_icons=true&hide=contribs,prs)
+![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelaL8a&show_icons=true&theme=material-palenight)
   
 ## 📩 Let's Connect
 - LinkedIn: [Angela LinkedIn](https://www.linkedin.com/in/isonoangelapaola/)
