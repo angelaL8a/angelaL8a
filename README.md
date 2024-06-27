@@ -25,6 +25,7 @@ When I’m not coding, you can find me:
   
 ## 📩 Let's Connect
 - LinkedIn: [Angela LinkedIn](https://www.linkedin.com/in/gabriel-david-lozano-ochoa-08b844269/)
+- Profile Coursera: [Angela Coursera](https://www.coursera.org/user/f27d45b8ffcf61dfd53b1af9dfc65773)
 
 I'm always open to collaborating on interesting projects and innovative ideas. Feel free to reach out if you want to talk tech or design!
 
