@@ -15,6 +15,8 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 - **Tools**: Git, VS Code, Figma, Canva, Linear, Miro
 - **Fields of Interest**: Web Development, AI, Data Science, Database Management, Software Engineering, Mathematics, Art and Design
 
+![Programming Languages](https://skillicons.dev/icons?i=js,html,css,cpp,python,php,mysql,figma)
+
 ## 🍀 Skills
 - **Management methodologies**: Kanban , Agile
 
