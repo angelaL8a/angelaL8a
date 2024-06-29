@@ -22,11 +22,8 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 - **Management methodologies**: Kanban , Agile
 
 ## 🩷 Hobbies
+![Name](Github/hobbies.png)
 
-When I’m not coding, you can find me:
-- Designing sleek user interfaces on Figma 🎨
-- Creating digital artwork on Canva and Behance
-- Jamming to a diverse playlist that includes Rap, Hip-Hop, R&B, Electro, and Jersey Club 🎧
 
 ### 📊 My GitHub Stats
 ![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelaL8a&show_icons=true&theme=material-palenight)
