@@ -1,4 +1,4 @@
-# Hello, I'm Angela! 👋💻
+![Name](Github/name.png)
 
 🎓 Studying Computer Science at the University of London
 
