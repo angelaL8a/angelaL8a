@@ -22,7 +22,7 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 - **Management methodologies**: Kanban , Agile
 
 ![Hobbies](Github/hobbies-small.png)
-https://github-readme-stats.vercel.app/api?username=angelaL8a&show_icons=true&theme=material-palenight
+![Stats](https://github-readme-stats.vercel.app/api?username=angelaL8a&show_icons=true&theme=material-palenight)
   
 ## 📩 Let's Connect
 - LinkedIn: [Angela LinkedIn](https://www.linkedin.com/in/isonoangelapaola/)
