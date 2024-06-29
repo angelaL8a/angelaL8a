@@ -22,7 +22,7 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 - **Management methodologies**: Kanban , Agile
 
 ## 🩷 Hobbies
-![Name](Github/hobbies.png)
+![Name](Github/hobbies-small.png)
 
 
 ### 📊 My GitHub Stats
