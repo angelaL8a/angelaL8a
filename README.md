@@ -31,6 +31,7 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 ## 📩 Let's Connect
 - LinkedIn: [Angela LinkedIn](https://www.linkedin.com/in/isonoangelapaola/)
 - Profile Coursera: [Angela Coursera](https://www.coursera.org/user/f27d45b8ffcf61dfd53b1af9dfc65773)
+![Music](Github/connect.png)
 
 I'm always open to collaborating on interesting projects and innovative ideas. Feel free to reach out if you want to talk tech or design!
 
