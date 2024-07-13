@@ -41,5 +41,6 @@ I'm always open to collaborating on interesting projects and innovative ideas. F
 ![CV3](CV/3.png)
 ![CV4](CV/4.png)
 ![CV5](CV/5.png)
+![CV5](CV/6.png)
 ![Status](CV/Status.png)
 
