@@ -36,7 +36,7 @@ I'm always open to collaborating on interesting projects and innovative ideas. F
 
 
 # ¡Ahora Conóceme en Español!
-![CV1](CV/1.png)
+![CV1](CV/1CV.png)
 ![CV2](CV/2.png)
 ![CV3](CV/3.png)
 ![CV4](CV/4.png)
