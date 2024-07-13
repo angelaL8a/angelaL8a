@@ -43,4 +43,4 @@ I'm always open to collaborating on interesting projects and innovative ideas. F
 ![CV5](CV/5.png)
 ![CV5](CV/6.png)
 ![Status](CV/Status.png)
-
+Para dirigirte a los links descarga la version oficial aquí: ![CV-comprimido](https://github.com/angelaL8a/angelaL8a/blob/main/CV-comprimido.pdf)
