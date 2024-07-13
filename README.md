@@ -23,6 +23,7 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 - **Management methodologies**: Kanban , Agile
 
 ![Hobbies](Github/hobbies-small.png)
+
   
 ## 📩 Let's Connect
 - LinkedIn: [Angela LinkedIn](https://www.linkedin.com/in/isonoangelapaola/)
@@ -32,4 +33,13 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 ![AMImage](Github/appleMusic.png)
 
 I'm always open to collaborating on interesting projects and innovative ideas. Feel free to reach out if you want to talk tech or design!
+
+
+# ¡Ahora Conóceme en Español!
+![CV1](CV/1.png)
+![CV2](CV/2.png)
+![CV3](CV/3.png)
+![CV4](CV/4.png)
+![CV5](CV/5.png)
+![Status](CV/Status.png)
 
