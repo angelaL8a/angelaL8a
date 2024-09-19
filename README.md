@@ -51,10 +51,10 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/1_data-science-orientation.png" alt="badge" width="190px"/>
     </a> 
     <a href="https://www.credly.com/badges/56ded2ce-4ca2-4837-9ca0-74ddf3ad32c5/public_url">
-        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/2_tools-for-data-science-v2.png" alt="badge" width="190px" padding="20px" />
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/2_tools-for-data-science-v2.png" alt="badge" width="190px" padding="40px" />
     </a> 
     <a href="https://www.credly.com/badges/cde564b6-9f84-48ab-b8ed-b0cce1cfa9a4/public_url">
-        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/3_data-science-methodology.png" alt="badge" width="190px" padding="20px" />
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/3_data-science-methodology.png" alt="badge" width="190px" padding="40px" />
     </a> 
     <a href="https://www.credly.com/badges/83a5fb04-de9f-4199-b909-122531ddc456/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/4_python-for-data-science-and-ai.png" alt="badge" width="185px"/> 
@@ -66,11 +66,11 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/5_python-project-for-data-science.png" alt="badge" width="190px"/>
     </a> 
     <a href="https://www.credly.com/badges/f07bc370-f68b-465e-9a05-577ad41d23b0/public_url">
-        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/6_databases-and-sql-for-data-science.png" alt="badge" width="190px"/>
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/6_databases-and-sql-for-data-science.png" alt="badge" width="190px" padding="40px"/>
     </a> 
     <a href="https://www.credly.com/badges/024daddb-fb4b-41ea-9130-fbc9addc1318/public_url">
-        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/7_data-analysis-with-python.png" alt="badge" width="190px"/>
-    </a> 
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/7_data-analysis-with-python.png" alt="badge" width="190px" padding="40px"/>
+    </a 
     <a href="https://www.credly.com/badges/897a404d-9360-4b30-a734-f7a65b242923/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/8_data-visualization-with-python.png" alt="badge" width="185px"/> 
     </a>
@@ -81,10 +81,10 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/9_machine-learning-with-python.png" alt="badge" width="190px"/>
     </a> 
    <a href="https://www.credly.com/badges/debdb6d4-fb12-46a9-a52d-fb3a12b2ff91/public_url">
-        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/10_applied-data-science-capstone.1.png" alt="badge" width="190px"/>
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/10_applied-data-science-capstone.1.png" alt="badge" width="190px" padding="40px"/>
     </a> 
     <a href="https://www.credly.com/badges/c2d85abb-6559-4a49-9d64-c091f2b4541e/public_url">
-        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/enterprise-design-thinking-practitioner.png" alt="badge" width="190px"/>
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/enterprise-design-thinking-practitioner.png" alt="badge" width="190px" padding="40px"/>
     </a> 
     <a href="https://www.credly.com/badges/5a05e81e-f507-4874-9bf9-81a192dff58e/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/google-it-support-certificate.2.png" alt="badge" width="185px"/> 
