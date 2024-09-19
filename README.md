@@ -51,7 +51,6 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     position: relative;
     display: flex;
     justify-content: center;
-    justify-items: center;
     align-items: center;
     justify-content: space-between;
 ">
@@ -74,7 +73,6 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     position: relative;
     display: flex;
     justify-content: center;
-    justify-items: center;
     align-items: center;
     justify-content: space-between;
 ">
@@ -97,7 +95,6 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     position: relative;
     display: flex;
     justify-content: center;
-    justify-items: center;
     align-items: center;
     justify-content: space-between;
 ">
