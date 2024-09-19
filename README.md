@@ -75,3 +75,18 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/8_data-visualization-with-python.png" alt="badge" width="185px"/> 
     </a>
 </p>
+
+<p align="center">
+    <a href="https://www.credly.com/badges/300ae4ff-49e6-4d9a-807a-725b0cd5d75f/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/9_machine-learning-with-python.png" alt="badge" width="190px"/>
+    </a> 
+   <a href="https://www.credly.com/badges/debdb6d4-fb12-46a9-a52d-fb3a12b2ff91/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/10_applied-data-science-capstone.1.png" alt="badge" width="190px"/>
+    </a> 
+    <a href="https://www.credly.com/badges/c2d85abb-6559-4a49-9d64-c091f2b4541e/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/enterprise-design-thinking-practitioner.png" alt="badge" width="190px"/>
+    </a> 
+    <a href="https://www.credly.com/badges/5a05e81e-f507-4874-9bf9-81a192dff58e/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/google-it-support-certificate.2.png" alt="badge" width="185px"/> 
+    </a>
+</p>
