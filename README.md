@@ -46,14 +46,7 @@ I'm always open to collaborating on interesting projects and innovative ideas. F
 Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](https://github.com/angelaL8a/angelaL8a/blob/main/CV-comprimido.pdf)
 
 
-<p align="center" style="
-    padding: 20px;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    justify-content: space-between;
-">
+<p align="center">
     <a href="https://www.credly.com/badges/4a31d4bb-f1b3-4b09-8a72-3ef5608ebbae/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/1_data-science-orientation.png" alt="badge" width="190px"/>
     </a> 
@@ -68,14 +61,8 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     </a>
 </p>
 
-<p align="center" style="
-    padding: 20px;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    justify-content: space-between;
-">
+<p align="center"
+>
     <a href="https://www.credly.com/badges/d1c741cb-5dab-4127-b1ae-348c2fb07421/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/5_python-project-for-data-science.png" alt="badge" width="190px"/>
     </a> 
@@ -90,14 +77,7 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     </a>
 </p>
 
-<p align="center" style="
-    padding: 20px;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    justify-content: space-between;
-">
+<p align="center">
     <a href="https://www.credly.com/badges/300ae4ff-49e6-4d9a-807a-725b0cd5d75f/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/9_machine-learning-with-python.png" alt="badge" width="190px"/>
     </a> 
