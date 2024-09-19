@@ -44,3 +44,34 @@ I'm always open to collaborating on interesting projects and innovative ideas. F
 ![CV5](CV/6CV.png)
 ![Status](CV/Status.png)
 Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](https://github.com/angelaL8a/angelaL8a/blob/main/CV-comprimido.pdf)
+
+
+<p align="center">
+    <a href="https://www.credly.com/badges/4a31d4bb-f1b3-4b09-8a72-3ef5608ebbae/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/1_data-science-orientation.png" alt="badge" width="190px"/>
+    </a> 
+    <a href="https://www.credly.com/badges/56ded2ce-4ca2-4837-9ca0-74ddf3ad32c5/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/2_tools-for-data-science-v2.png" alt="badge" width="190px" padding="20px" />
+    </a> 
+    <a href="https://www.credly.com/badges/cde564b6-9f84-48ab-b8ed-b0cce1cfa9a4/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/3_data-science-methodology.png" alt="badge" width="190px" padding="20px" />
+    </a> 
+    <a href="https://www.credly.com/badges/83a5fb04-de9f-4199-b909-122531ddc456/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/4_python-for-data-science-and-ai.png" alt="badge" width="185px"/> 
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://www.credly.com/badges/d1c741cb-5dab-4127-b1ae-348c2fb07421/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/5_python-project-for-data-science.png" alt="badge" width="190px"/>
+    </a> 
+    <a href="https://www.credly.com/badges/f07bc370-f68b-465e-9a05-577ad41d23b0/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/6_databases-and-sql-for-data-science.png" alt="badge" width="190px"/>
+    </a> 
+    <a href="https://www.credly.com/badges/024daddb-fb4b-41ea-9130-fbc9addc1318/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/7_data-analysis-with-python.png" alt="badge" width="190px"/>
+    </a> 
+    <a href="https://www.credly.com/badges/897a404d-9360-4b30-a734-f7a65b242923/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/8_data-visualization-with-python.png" alt="badge" width="185px"/> 
+    </a>
+</p>
