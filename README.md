@@ -91,3 +91,9 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/google-it-support-certificate.2.png" alt="badge" width="185px"/> 
     </a>
 </p>
+
+<p align="center">
+    <a href="https://www.credly.com/badges/7085e793-6d89-43ac-8643-62c271a0a2f0/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/applied-data-science-specialization-v2.png" alt="badge" width="190px"/>
+    </a> 
+</p>
