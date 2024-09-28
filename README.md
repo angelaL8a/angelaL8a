@@ -96,4 +96,7 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     <a href="https://www.credly.com/badges/7085e793-6d89-43ac-8643-62c271a0a2f0/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/applied-data-science-specialization-v2.png" alt="badge" width="190px"/>
     </a> 
+    <a href="https://www.credly.com/badges/e9e3c07a-7904-4338-adc7-45a0816a9ba0/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/11-generative-ai-essentials-for-data-science.png" alt="badge" width="190px" padding="40px"/>
+    </a> 
 </p>
