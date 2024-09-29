@@ -101,4 +101,4 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     </a> 
 </p>
 
-![ViewCount](https://github.com/angelaL8a/angelaL8a/edit/main/README.md.svg?cache=remove)
+![ViewCount](https://github.com/angelaL8a/angelaL8a.svg?cache=remove)
