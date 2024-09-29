@@ -100,3 +100,5 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/11-generative-ai-essentials-for-data-science.png" alt="badge" width="190px" padding="40px"/>
     </a> 
 </p>
+
+![ViewCount](https://github.com/angelaL8a/angelaL8a/edit/main/README.md.svg?cache=remove)
