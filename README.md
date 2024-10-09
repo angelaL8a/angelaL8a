@@ -99,6 +99,9 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     <a href="https://www.credly.com/badges/e9e3c07a-7904-4338-adc7-45a0816a9ba0/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/11-generative-ai-essentials-for-data-science.png" alt="badge" width="190px" padding="40px"/>
     </a> 
+    <a href="https://www.credly.com/badges/d95067ee-5066-4fb9-b979-3914dea31c1e/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/enterprise-design-thinking-co-creator.png" alt="badge" width="190px" padding="40px"/>
+    </a> 
 </p>
 
 ![ViewCount](https://views.whatilearened.today/views/github/angelaL8a/angelaL8a.svg?cache=remove)
