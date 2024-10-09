@@ -102,6 +102,9 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     <a href="https://www.credly.com/badges/d95067ee-5066-4fb9-b979-3914dea31c1e/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/enterprise-design-thinking-co-creator.png" alt="badge" width="190px" padding="40px"/>
     </a> 
+    <a href="https://www.credly.com/badges/c14fc0f8-e275-4e0e-b813-772eef4945a8/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/12_data-scientist-career-guide-and-interview-preparati.png" alt="badge" width="185px"/> 
+    </a>
 </p>
 
 ![ViewCount](https://views.whatilearened.today/views/github/angelaL8a/angelaL8a.svg?cache=remove)
