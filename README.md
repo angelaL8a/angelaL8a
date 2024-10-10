@@ -108,4 +108,10 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     </a>
 </p>
 
+<p align="center">
+    <a href="https://www.credly.com/badges/bb06edc4-8990-453d-8a3a-6a1771da66e8/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/ibm-data-science-professional-certificate.png" alt="badge" width="190px"/>
+    </a> 
+</p>
+
 ![ViewCount](https://views.whatilearened.today/views/github/angelaL8a/angelaL8a.svg?cache=remove)
