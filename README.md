@@ -112,6 +112,9 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     <a href="https://www.credly.com/badges/bb06edc4-8990-453d-8a3a-6a1771da66e8/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/ibm-data-science-professional-certificate.png" alt="badge" width="190px"/>
     </a> 
+    <a href="https://www.canva.com/designschool/certification-award/7c64f522-e8a5-4c8f-8b58-5b73a56250e7">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/angela-paola-graphic-design-essentials-badge.png" alt="badge" width="190px" padding="40px"/>
+    </a> 
 </p>
 
 ![ViewCount](https://views.whatilearened.today/views/github/angelaL8a/angelaL8a.svg?cache=remove)
