@@ -115,6 +115,9 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     <a href="https://www.canva.com/designschool/certification-award/7c64f522-e8a5-4c8f-8b58-5b73a56250e7">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/angela-paola-graphic-design-essentials-badge.png" alt="badge" width="190px" padding="40px"/>
     </a> 
+    <a href="https://www.canva.com/designschool/certification-award/78ba9f9c-f18b-499e-a9a8-740851c30906">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/angela-paola-lozano-ochoa-teacher-essentials-badge.png" alt="badge" width="190px" padding="40px"/>
+    </a> 
 </p>
 
 ![ViewCount](https://views.whatilearened.today/views/github/angelaL8a/angelaL8a.svg?cache=remove)
