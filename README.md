@@ -10,7 +10,7 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 
 ## 👩🏽‍💻 Tech Stack
 
-- **Programming Languages**: Python 🐍, C++, JavaScript (JS), TypeScript PHP, C#
+- **Programming Languages**: Python 🐍, C++, JavaScript (JS), TypeScript, PHP, C#
 - **Databases**: MySQL,  PostgreSQL, Redis
 - **Web Development**: React, Node.js, HTML, CSS, TailwindCSS, Bootstrap
 - **Tools**: Git, VS Code, Figma, Canva, Linear, Miro, Adobe XD 
