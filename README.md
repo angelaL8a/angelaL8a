@@ -121,3 +121,5 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
 </p>
 
 ![ViewCount](https://views.whatilearened.today/views/github/angelaL8a/angelaL8a.svg?cache=remove)
+
+[![ViewCount](https://visitcount.itsvg.in/api?id=angelaL8a&icon=7&color=10)](https://visitcount.itsvg.in)
