@@ -12,7 +12,7 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 
 - **Programming Languages**: Python 🐍, C++, JavaScript (JS), TypeScript, PHP, C#
 - **Databases**: MySQL,  PostgreSQL, Redis
-- **Web Development**: React, Node.js, HTML, CSS, TailwindCSS, Bootstrap
+- **Web Development**: React, Node.js, Express.js, HTML, CSS, TailwindCSS, Bootstrap, Flask
 - **Tools**: Vite, Git, VS Code, Figma, Canva, Linear, Miro, Adobe XD 
 - **Fields of Interest**: Web Development, AI, Data Science, Database Management, Software Engineering, Mathematics, Art and Design
     
