@@ -118,6 +118,9 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     <a href="https://www.canva.com/designschool/certification-award/78ba9f9c-f18b-499e-a9a8-740851c30906">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/angela-paola-lozano-ochoa-teacher-essentials-badge.png" alt="badge" width="190px" padding="40px"/>
     </a> 
+    <a href="https://www.credly.com/badges/393e0283-6d9b-45e6-aa2f-1d4de70472bc/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/enterprise-design-thinking-team-essentials-for-ai.png" alt="badge" width="185px"/> 
+    </a>
 </p>
 
 ![ViewCount](https://views.whatilearened.today/views/github/angelaL8a/angelaL8a.svg?cache=remove)
