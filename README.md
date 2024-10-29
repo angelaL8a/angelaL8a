@@ -123,6 +123,12 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     </a>
 </p>
 
+<p align="center">
+    <a href="https://www.credly.com/badges/dd7d6a05-80dd-4d09-b5d2-4acf35d452c1/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/1_deep-learning-essentials-with-keras.png" alt="badge" width="190px"/>
+    </a> 
+</p>
+
 ![ViewCount](https://views.whatilearened.today/views/github/angelaL8a/angelaL8a.svg?cache=remove)
 
 [![ViewCount](https://visitcount.itsvg.in/api?id=angelaL8a&icon=7&color=10)](https://visitcount.itsvg.in)
