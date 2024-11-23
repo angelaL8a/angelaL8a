@@ -127,6 +127,9 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     <a href="https://www.credly.com/badges/dd7d6a05-80dd-4d09-b5d2-4acf35d452c1/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/1_deep-learning-essentials-with-keras.png" alt="badge" width="190px"/>
     </a> 
+    <a href="https://www.credly.com/badges/4c66ca3f-318d-4c2a-b058-f02acf05a033/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/project-management-fundamentals.png" alt="badge" width="190px" padding="40px"/>
+    </a> 
 </p>
 
 ![ViewCount](https://views.whatilearened.today/views/github/angelaL8a/angelaL8a.svg?cache=remove)
