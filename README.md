@@ -129,6 +129,9 @@ Para dirigirte a los links descarga la versión oficial aquí: [CV-comprimido](h
     </a> 
     <a href="https://www.credly.com/badges/4c66ca3f-318d-4c2a-b058-f02acf05a033/public_url">
         <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/project-management-fundamentals.png" alt="badge" width="190px" padding="40px"/>
+    </a>
+    <a href="https://www.credly.com/badges/5051522d-6f3d-4494-94f8-8bef497a3feb/public_url">
+        <img src="https://github.com/angelaL8a/angelaL8a/blob/main/badges/advanced-deep-learning-specialist.png" alt="badge" width="190px" padding="40px"/>
     </a> 
 </p>
 
