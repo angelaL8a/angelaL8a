@@ -30,7 +30,7 @@ I’m currently pursuing a degree in Computer Science with a specialization in A
 - Profile Coursera: [Angela Coursera](https://www.coursera.org/user/f27d45b8ffcf61dfd53b1af9dfc65773)
 
 
-![AMImage](Github/appleMusic.png)
+![AMImage](Github/AppleMusic.png)
 
 I'm always open to collaborating on interesting projects and innovative ideas. Feel free to reach out if you want to talk tech or design!
 
