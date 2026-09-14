@@ -4,7 +4,7 @@
 
 ## 👧🏽 About Me
 
-I’m currently pursuing a degree in Computer Science with a specialization in Artificial Intelligence and Machine Learning at the University of London. I'm passionate about leveraging technology to solve real-world problems and am actively involved in projects that span across web development, AI, data science, software development, and more.
+I’m Software Engineer. I'm passionate about leveraging technology to solve real-world problems and am actively involved in projects that span across web development, AI, data science, software development, and more.
 
 🎨 Beyond the world of code, I immerse myself in the creative realms of design and art, utilizing platforms like Figma, Canva, and Behance to bring innovative ideas to life. Whether it’s software design or general artistic endeavors, I love to blend aesthetics with functionality.
 
